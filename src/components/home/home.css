@@ -1,0 +1,62 @@
+.ourBody{
+    background-color: rgb(133, 98, 98);
+    border-radius: 15px;
+}
+
+.imageCover{
+    display: flex;
+    justify-content: center;
+}
+
+.image{
+    width: 230px;
+    height: 190px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    /* object-fit: cover; */
+}
+
+.nameTitle{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.nameTitle > h3{
+    margin-top: 2px;
+    font-size: 22px;
+    margin-bottom: 5px;
+}
+
+.nameTitle > .designation{
+    display: block;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 12px;
+    margin-top: 2px;
+    color: #f5f0f0de;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.nameTitle > .email{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 2px;
+}
+
+.nameTitle > .linkedIn{
+    background-color: rgba(23, 23, 228, 0.76);
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 10px;
+}
+

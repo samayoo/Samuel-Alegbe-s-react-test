@@ -1,0 +1,28 @@
+.topBar{
+    background-color: black;
+    color: white;
+    position: sticky;
+    top: 0%;
+ }
+
+.topBar > .nav{
+    padding: 10px;
+}
+
+.topBar > .nav > .unorderedListHeader{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+li{
+    list-style-type: none;
+}
+
+.link{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.link:hover{
+    color: rgb(165, 128, 128);
+}

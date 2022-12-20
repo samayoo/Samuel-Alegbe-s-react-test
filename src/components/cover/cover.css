@@ -1,0 +1,14 @@
+.parentCover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cover {
+    margin-top: 5rem;
+    border: 5px solid rgb(240, 231, 231);
+    border-radius: 15px;
+    width: 300px;
+    background-color: lightgray;
+    margin-bottom: 2rem;
+}

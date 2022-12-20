@@ -1,0 +1,9 @@
+.blog{
+    background-color: coral;
+    min-height: 100vh;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+}

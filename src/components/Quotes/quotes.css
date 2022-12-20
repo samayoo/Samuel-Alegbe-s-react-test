@@ -1,0 +1,9 @@
+.quotes{
+    background-color: rgb(152, 219, 27);
+    min-height: 100vh;
+    padding-top: 5px;
+}
+
+h1{
+    text-align: center;
+}
