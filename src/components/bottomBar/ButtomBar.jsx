@@ -6,7 +6,7 @@ function ButtomBar() {
     return (
         <>
             <div className='buttomBar'>
-                ButtomBar
+                ButtomBar-Samuel Alegbe-22/0299-Computer-science-200L
             </div>
         </>
     )
